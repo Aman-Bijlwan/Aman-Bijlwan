@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
   - Email: bijlwan009aman@gmail.com
   - Instagram: [@aman_bijlwan_](https://www.instagram.com/aman_bijlwan_/)
-  - 
+  - LinkedIn: [Aman Bijlwan LinkedIn](https://www.linkedin.com/in/aman-bijlwan-37a605295/)
 - ⚡ Recent experience: My previous GitHub ID got hacked yesterday. 😶
 
 <!---
