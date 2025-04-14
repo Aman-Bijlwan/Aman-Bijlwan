@@ -6,7 +6,6 @@
   - Email: bijlwan009aman@gmail.com
   - Instagram: [@aman_bijlwan_](https://www.instagram.com/aman_bijlwan_/)
   - LinkedIn: [Aman Bijlwan LinkedIn](https://www.linkedin.com/in/aman-bijlwan-37a605295/)
-- ⚡ Recent experience: My previous GitHub ID got hacked yesterday. 😶
 
 <!---
 Aman-Bijlwan/Aman-Bijlwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
